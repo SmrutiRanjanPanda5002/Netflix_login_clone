@@ -1,1 +1,2 @@
-# Netflix_login_clone
+# Netflix-Clone
+Netflix clone using html & css
